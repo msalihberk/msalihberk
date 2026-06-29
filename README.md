@@ -7,7 +7,7 @@ I focus on software development, AI safety, and autonomous systems. I am constan
 ### 📂 Projects & Articles
 
 *   **[ShadowLab](https://github.com/msalihberk/ShadowLab):** A Python-based C2 framework project (In development).
-*   **[Medium Articles](https://medium.com/@msalihberk):** Step-by-step tutorials and notes on software development and security.
+*   **[Medium Articles](https://medium.com/@msalihberk):** Technical breakdowns, vulnerability research write-ups, and insights on software architecture.
 
 ---
 
