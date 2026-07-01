@@ -16,6 +16,11 @@ I focus on software development, AI safety, and autonomous systems. I am constan
 
 ---
 
+### 📚 Current Focus & Learning
+* 🎓 Deepening computer science fundamentals, low-level concepts, and algorithmic thinking through **CS50x: Introduction to Computer Science (Harvard)**.
+
+---
+
 ### 🛠️ Domains & Interests
 
 *   **AI & Security:** Vulnerability research on large language models (LLMs) and AI safety.
