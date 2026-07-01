@@ -4,6 +4,11 @@ I focus on software development, AI safety, and autonomous systems. I am constan
 
 ---
 
+### 🚀 Latest Research & Publications
+* **[Medium - Infosec]** Technical analysis of a logical lock screen bypass I discovered in Google Gemini and reported via Google VRP. [Read the Write-up here](https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06)
+
+---
+
 ### 📂 Projects & Articles
 
 *   **[ShadowLab](https://github.com/msalihberk/ShadowLab):** Modular, Python-based C2 framework built for modern cybersecurity research (In Development)
