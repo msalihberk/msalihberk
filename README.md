@@ -47,7 +47,6 @@ https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06
 | Project | Description |
 |---------|-------------|
 | 🧪 [**ShadowLab**](https://github.com/msalihberk/ShadowLab) | Modular, Python-based C2 framework built for modern cybersecurity research *(In Development)* |
-| ⚡ [**VirtuSqueeze**](https://github.com/msalihberk/VirtuSqueeze) | Intelligent virtual disk optimizer designed to reclaim wasted host storage by cleaning empty disk sectors *(Alpha/Experimental)* |
 | 🛠️ [**Prox CLI**](https://github.com/msalihberk/prox-cli) | A lightweight, modular, and extensible multi-tool CLI written in Go for developers and security researchers. *(Beta)* |
 | ✍️ [**Medium Articles**](https://medium.com/@msalihberk) | Technical breakdowns, vulnerability research write-ups, and software engineering insights |
 
