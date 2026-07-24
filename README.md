@@ -12,7 +12,7 @@ Software Engineer • Cybersecurity Researcher • AI Safety Enthusiast
 Building secure software, researching intelligent systems, and developing future technologies.
 </p>
 
-<p align="center"><a href="https://github.com/msalihberk/ShadowLab"><img alt="ShadowLab" src="https://img.shields.io/badge/ShadowLab-Featured%20Project-00D8FF?style=for-the-badge"><a href="https://github.com/msalihberk/prox-cli"><img alt="Prox CLI" src="https://img.shields.io/badge/Prox CLI-Featured%20Project-00D8FF?style=for-the-badge"></a>&nbsp;<a href="https://medium.com/@msalihberk"><img alt="Medium" src="https://img.shields.io/badge/Medium-Research-black?style=for-the-badge&logo=medium"></a></p>
+<p align="center"><a href="https://github.com/msalihberk/ShadowLab"><img alt="ShadowLab" src="https://img.shields.io/badge/ShadowLab-Featured%20Project-00D8FF?style=for-the-badge">&nbsp;<a href="https://github.com/msalihberk/prox-cli"><img alt="Prox CLI" src="https://img.shields.io/badge/Prox CLI-Beta%20Project-00D8FF?style=for-the-badge"></a>&nbsp;<a href="https://medium.com/@msalihberk"><img alt="Medium" src="https://img.shields.io/badge/Medium-Research-black?style=for-the-badge&logo=medium"></a></p>
 
 ---
 
