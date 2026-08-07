@@ -18,9 +18,11 @@ Building secure software, researching intelligent systems, and developing future
 
 ## About
 
-I focus on **software development**, **AI safety**, and **autonomous systems**.
+I focus on **software development**, **cybersecurity**, and **autonomous systems**. 
 
-I enjoy building practical projects across multiple technologies while continuously strengthening my computer science fundamentals and exploring new ideas in cybersecurity and intelligent systems.
+🎓 **Student at [Baykar Science High School](https://baykarfenlisesi.com/en)**
+
+I build practical open-source projects across security architectures, systems programming, and simulations while continuously strengthening my computer science fundamentals.
 
 ---
 
@@ -52,46 +54,41 @@ https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06
 
 ---
 
-# 📚 Current Focus & Learning
+# 📚 Current Focus
 
-Currently studying:
+**Academic & Coursework:**
+- 🎓 **CS50x** — Harvard University's Introduction to Computer Science
 
-**CS50x: Introduction to Computer Science (Harvard)**
-
-Current areas of focus:
-
-- Computer Science Fundamentals
-- Low-Level Programming
-- Algorithmic Thinking
-- Secure Software Engineering
-- Artificial Intelligence Safety
+**Technical Focus Areas:**
+- Low-Level Programming & C/Go Development
+- Command-and-Control (C2) System Architectures
+- Secure Software Engineering & Malware Analysis
+- UAV Dynamics & Simulation Fundamentals
 
 ---
 
 # 🛠️ Domains & Interests
 
 - 🤖 **AI & Security** — Vulnerability research on large language models (LLMs) and AI safety.
-- ✈️ **Autonomous Systems** — UAV technologies and flight control software.
-- 💻 **Development** — Simulation development with Unity and modern Web technologies.
-- ⚛️ **Theoretical Physics** — Quantum mechanics and cosmology.
+- ✈️ **Autonomous Systems** — UAV technologies, flight control dynamics, and FPV piloting logic.
+- 💻 **Development** — System utilities in Go/Python, simulations, and modern web architectures (Laravel/PHP).
+- ⚛️ **Theoretical Physics** — Quantum mechanics, chaos theory, and gravity simulations.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cs,go,unity,linux,git,kali,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=python,go,laravel,php,js,cs,unity,linux,git,kali"/>
 </p>
 
 ---
 
 # 🗺️ Future Roadmap
 
-Current roadmap:
-
-- 🧪 Expand **ShadowLab** into a comprehensive cybersecurity learning platform with a modern Web UI.
-- 🛡️ Develop an AI-powered antivirus architecture utilizing machine learning for threat detection.
-- 🚁 Design physics-based autonomous UAV simulations using Unity.
+- 🧪 Expand **ShadowLab** into a multi-agent cybersecurity framework with a dedicated web control panel.
+- 🛡️ Design an AI-powered antivirus detection system using machine learning models.
+- 🚁 Implement physics-based UAV control algorithms and simulation modules.
 
 ---
 
