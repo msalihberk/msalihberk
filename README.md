@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&lines=Building+Secure+Software;Cybersecurity+Researcher;AI+Safety+Enthusiast;Creating+Open+Source+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&duration=3500&pause=1000&color=00D8FF&center=true&vCenter=true&width=850&lines=Building+Secure+Software;Cybersecurity+Researcher;AI+Enthusiast;Creating+Open+Source+Projects"/>
 </p>
 
 <h1 align="center">Mustafa Salih Berk</h1>
 
 <p align="center">
-Software Engineer • Cybersecurity Researcher • AI Safety Enthusiast
+Software Engineer • Cybersecurity Researcher • AI Enthusiast
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Building secure software, researching intelligent systems, and developing future
 
 ## About
 
-I focus on **software development**, **cybersecurity**, and **autonomous systems**. 
+I focus on **software development**, **cybersecurity**, **artificial intelligence**, and **autonomous systems**. 
 
 🎓 **Student at [Baykar Science High School](https://baykarfenlisesi.com/en)**
 
@@ -69,7 +69,8 @@ https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06
 
 # 🛠️ Domains & Interests
 
-- 🤖 **AI & Security** — Vulnerability research on large language models (LLMs) and AI safety.
+- 🛡️ **Cybersecurity** — Vulnerability research, penetration testing tools, and secure system architectures.
+- 🤖 **Artificial Intelligence** — Machine learning fundamentals, neural networks, and intelligent system integrations.
 - ✈️ **Autonomous Systems** — UAV technologies, flight control dynamics, and FPV piloting logic.
 - 💻 **Development** — System utilities in Go/Python, simulations, and modern web architectures (Laravel/PHP).
 - ⚛️ **Theoretical Physics** — Quantum mechanics, chaos theory, and gravity simulations.
