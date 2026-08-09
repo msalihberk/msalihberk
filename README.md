@@ -31,9 +31,17 @@ I build practical open-source projects across security architectures, systems pr
 
 ---
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats-five-pi-15.vercel.app/api?username=msalihberk&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"/>
-</p>
+<div align="center">
+
+  <img src="https://img.shields.io/github/stars/msalihberk?style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=16161e&color=1a1b26" alt="Stars" />
+  <img src="https://img.shields.io/github/issues-pr-closed/msalihberk/ShadowLab?style=for-the-badge&logo=git-pull-request&logoColor=7dcfff&labelColor=16161e&color=1a1b26" alt="PRs" />
+  <img src="https://img.shields.io/github/issues/msalihberk/ShadowLab?style=for-the-badge&logo=github&logoColor=f7768e&labelColor=16161e&color=1a1b26" alt="Issues" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=msalihberk&theme=tokyonight&hide_border=true" alt="Mustafa's GitHub Streak" />
+
+</div>
 
 ---
 
