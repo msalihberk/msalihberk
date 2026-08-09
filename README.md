@@ -12,7 +12,12 @@ Software Engineer • Cybersecurity Researcher • AI Enthusiast
 Building secure software, researching intelligent systems, and developing future technologies.
 </p>
 
-<p align="center"><a href="https://github.com/msalihberk/ShadowLab"><img alt="ShadowLab" src="https://img.shields.io/badge/ShadowLab-Featured%20Project-00D8FF?style=for-the-badge"></a>&nbsp;<a href="https://github.com/msalihberk/prox-cli"><img alt="Prox CLI" src="https://img.shields.io/badge/Prox%20CLI-Beta-orange?style=for-the-badge"></a>&nbsp;<a href="https://medium.com/@msalihberk"><img alt="Medium" src="https://img.shields.io/badge/Medium-Research-black?style=for-the-badge&logo=medium"></a></p>
+<p align="center">
+  <a href="https://msalihberk.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Site-38bdf8?style=for-the-badge"></a>&nbsp;
+  <a href="https://github.com/msalihberk/ShadowLab"><img alt="ShadowLab" src="https://img.shields.io/badge/ShadowLab-Featured%20Project-00D8FF?style=for-the-badge"></a>&nbsp;
+  <a href="https://github.com/msalihberk/prox-cli"><img alt="Prox CLI" src="https://img.shields.io/badge/Prox%20CLI-Beta-orange?style=for-the-badge"></a>&nbsp;
+  <a href="https://medium.com/@msalihberk"><img alt="Medium" src="https://img.shields.io/badge/Medium-Research-black?style=for-the-badge&logo=medium"></a>
+</p>
 
 ---
 
