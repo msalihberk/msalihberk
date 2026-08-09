@@ -32,7 +32,7 @@ I build practical open-source projects across security architectures, systems pr
 ---
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=msalihberk&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"/>
+<img width="49%" src="https://github-readme-stats-five-pi-15.vercel.app/api?username=msalihberk&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true"/>
 </p>
 
 ---
