@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,4 +20,12 @@ jobs:
           options: 'user=msalihberk&theme=tokyonight&hide_border=true'
           path: 'profile-streak-stats.svg'
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push updated SVG
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile-streak-stats.svg
+          git commit -m "chore: update github streak stats" || exit 0
+          git push
           
