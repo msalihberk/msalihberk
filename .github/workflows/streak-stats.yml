@@ -4,17 +4,20 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
+  
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: DenverCoder1/github-readme-streak-stats@2
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: GitHub Readme Streak Stats Action
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
         with:
-          user: msalihberk
-          theme: tokyonight
-          hide_border: true
+          options: 'user=msalihberk&theme=tokyonight&hide_border=true'
+          path: 'profile-streak-stats.svg'
+          token: ${{ secrets.GITHUB_TOKEN }}
           
