@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: DenverCoder1/github-readme-streak-stats-action@v1.1.0
+      - uses: DenverCoder1/github-readme-streak-stats@2
         with:
           user: msalihberk
           theme: tokyonight
