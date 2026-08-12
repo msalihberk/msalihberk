@@ -39,7 +39,7 @@ I build practical open-source projects across security architectures, systems pr
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=msalihberk&theme=tokyonight&hide_border=true" alt="Mustafa's GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/msalihberk/msalihberk/main/profile-streak-stats.svg" alt="Mustafa's GitHub Streak" />
 
 </div>
 
