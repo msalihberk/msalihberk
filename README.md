@@ -67,10 +67,13 @@ https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06
 
 ---
 
-# 📚 Current Focus
+# 📚 Certifications & Education
 
-**Academic & Coursework:**
-- 🎓 **CS50x** — Harvard University's Introduction to Computer Science
+- 🎓 **CS50x: Introduction to Computer Science** — *Harvard University (2026)*
+  *Covered C, Python, SQL, HTML/CSS/JS, algorithms, data structures, and web application architecture.*
+  [*Certificate*](https://cs50.harvard.edu/certificates/d109dc5b-07bb-4676-b01f-c5ce50d8d2ea)  
+
+---
 
 **Technical Focus Areas:**
 - Low-Level Programming & C/Go Development
