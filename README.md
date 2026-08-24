@@ -14,6 +14,7 @@ Building secure software, researching intelligent systems, and developing future
 
 <p align="center">
   <a href="https://msalihberk.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Site-38bdf8?style=for-the-badge"></a>&nbsp;
+  <a href="https://github.com/msalihberk/redpatch"><img alt="RedPatch" src="https://img.shields.io/badge/RedPatch-Featured%20Project-red?style=for-the-badge"></a>&nbsp;
   <a href="https://github.com/msalihberk/ShadowLab"><img alt="ShadowLab" src="https://img.shields.io/badge/ShadowLab-Featured%20Project-00D8FF?style=for-the-badge"></a>&nbsp;
   <a href="https://github.com/msalihberk/prox-cli"><img alt="Prox CLI" src="https://img.shields.io/badge/Prox%20CLI-Beta-orange?style=for-the-badge"></a>&nbsp;
   <a href="https://medium.com/@msalihberk"><img alt="Medium" src="https://img.shields.io/badge/Medium-Research-black?style=for-the-badge&logo=medium"></a>
@@ -61,7 +62,9 @@ https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06
 
 | Project | Description |
 |---------|-------------|
-| 🧪 [**ShadowLab**](https://github.com/msalihberk/ShadowLab) | Modular, Python-based C2 framework built for modern cybersecurity research *(In Development)* |
+| 🛡️ [**RedPatch**](https://github.com/msalihberk/redpatch) | Interactive AppSec playground & defense simulator with AI patch verification *(Pentester & Coder Modes)* |
+| 🧪 [**RedPatch Labs**](https://github.com/msalihberk/redpatch-labs) | Modular containerized laboratory scenarios and vulnerable application targets for RedPatch |
+| ⚡ [**ShadowLab**](https://github.com/msalihberk/ShadowLab) | Modular, Python-based C2 framework built for modern cybersecurity research *(In Development)* |
 | 🛠️ [**Prox CLI**](https://github.com/msalihberk/prox-cli) | A lightweight, modular, and extensible multi-tool CLI written in Go for developers and security researchers. *(Beta)* |
 | ✍️ [**Medium Articles**](https://medium.com/@msalihberk) | Technical breakdowns, vulnerability research write-ups, and software engineering insights |
 
@@ -96,7 +99,7 @@ https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,laravel,php,js,cs,unity,linux,git,kali"/>
+<img src="https://skillicons.dev/icons?i=python,go,laravel,php,js,cs,unity,linux,git,kali,docker,html"/>
 </p>
 
 ---
