@@ -99,7 +99,7 @@ https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,ros,ardupilot,laravel,php,js,cs,unity,linux,git,kali,docker,html"/>
+<img src="https://skillicons.dev/icons?i=python,go,ros,laravel,php,js,cs,unity,linux,git,kali,docker,html"/>
 </p>
 
 ---
