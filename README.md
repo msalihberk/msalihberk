@@ -113,7 +113,7 @@ https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06
 ---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=msalihberk&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=msalihberk&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true"/>
 </p>
 
 ---
