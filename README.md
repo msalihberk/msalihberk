@@ -90,9 +90,9 @@ https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06
 
 - 🛡️ **Cybersecurity** — Vulnerability research, penetration testing tools, and secure system architectures.
 - 🤖 **Artificial Intelligence** — Machine learning fundamentals, neural networks, and intelligent system integrations.
-- ✈️ **Autonomous Systems** — UAV technologies, flight control dynamics, and FPV piloting logic.
-- 💻 **Development** — System utilities in Go/Python, simulations, and modern web architectures (Laravel/PHP).
-- ⚛️ **Theoretical Physics** — Quantum mechanics, chaos theory, and gravity simulations.
+- ✈️ **Autonomous Systems** — UAV technologies, flight control dynamics, and FPV piloting logic. ROS2 development and ArduPilot integration. YOLO supported image processing mechanics
+- 💻 **Development** — System utilities in Go and Python, game development in C# Unity, simulations(Gazebo etc.), and modern web architectures (Laravel/PHP).
+- ⚛️ **Physics** — Quantum mechanics, UAV dynamics
 
 ---
 
