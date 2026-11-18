@@ -74,7 +74,11 @@ https://infosecwriteups.com/gemini-app-logical-lockscreen-bypass-9e7da290ea06
 
 - 🎓 **CS50x: Introduction to Computer Science** — *Harvard University (2026)*
   *Covered C, Python, SQL, HTML/CSS/JS, algorithms, data structures, and web application architecture.*
-  [*Certificate*](https://cs50.harvard.edu/certificates/d109dc5b-07bb-4676-b01f-c5ce50d8d2ea)  
+  [*Certificate*](https://cs50.harvard.edu/certificates/d109dc5b-07bb-4676-b01f-c5ce50d8d2ea)
+
+- 🧠 **MIT 6.006: Introduction to Algorithms** — [*MIT OpenCourseWare*](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020) **self-paced** ·  **In progress** <br>
+  *Data structures, sorting, graphs, shortest paths, and dynamic programming. Maintaining a public repository with LaTeX proofs and Python solutions.*
+  [*Quiz & problem set solutions*](https://github.com/msalihberk/mit-6006-solutions)
 
 ---
 
